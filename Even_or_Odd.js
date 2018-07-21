@@ -1,7 +1,7 @@
 var even_or_odd = function(number) { 
 	if (number % 2 === 0) {
 		console.log("Even");
-}   else {
+}   else() {
 	console.log("odd");
 }
 }
